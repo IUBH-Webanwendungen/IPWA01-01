@@ -1,4 +1,4 @@
-class Rechteck {
+export class Rechteck {
     höhe = 0;
     breite = 0;
     constructor(h, b) {

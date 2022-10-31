@@ -1,3 +1,5 @@
+import { Rechteck } from "../../Lesson-6/Rechteck";
+
 var assert = require('assert');
 
 describe('Rechteck', function () {
