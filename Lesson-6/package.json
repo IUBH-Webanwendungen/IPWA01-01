@@ -1,6 +1,6 @@
 {
-    "scripts": {
-        "test": "mocha"
-      },
-      "type": "module"
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module"
 }
